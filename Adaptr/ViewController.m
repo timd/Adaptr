@@ -24,4 +24,11 @@
     // Dispose of any resources that can be recreated.
 }
 
+-(void)willTransitionToTraitCollection:(UITraitCollection *)newCollection
+             withTransitionCoordinator:(id<UIViewControllerTransitionCoordinator>)coordinator {
+
+    NSLog(@"Trait collection = %@", newCollection);
+    
+}
+
 @end

@@ -404,6 +404,7 @@
 				22BB36C8199F71920053316E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		22BB36C9199F71920053316E /* Build configuration list for PBXNativeTarget "AdaptrTests" */ = {
 			isa = XCConfigurationList;
@@ -412,6 +413,7 @@
 				22BB36CB199F71920053316E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
